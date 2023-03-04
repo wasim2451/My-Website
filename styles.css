@@ -48,9 +48,9 @@ h3{
 }
 .bcloud{
     position: absolute;
-    left: 300px;
-    bottom: 250px;
-    display: inline-block;
+    left: 250px;
+    bottom: 300px;
+    
 
 }
 .tcloud{
