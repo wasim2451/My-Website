@@ -47,8 +47,8 @@ h3{
     text-decoration:underline ;
 }
 .bcloud{
-    position: absolute;
-    left: 250px;
+    position: relative;
+    left: 60px;
     bottom: 300px;
     
 
