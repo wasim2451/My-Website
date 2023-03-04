@@ -43,9 +43,6 @@ h3{
     color:  #11999E;
     font-weight:5px;
 }
-.ud{
-    text-decoration:underline ;
-}
 .bcloud{
     position: relative;
     left: 60px;
@@ -74,7 +71,7 @@ h3{
     margin:50px auto;
 }
 .profile-pic{
-    width: 10%;
+    width: 15%;
 }
 .skill-pic2{
     width: 25%;
@@ -84,6 +81,7 @@ h3{
 .my-details1{
     line-height:2;
     font-weight:normal;
+    font-size:large; 
     font-family: 'Roboto Mono', monospace;
     position: relative;
     width: 30%;
@@ -93,6 +91,7 @@ h3{
 .my-details2{
     line-height:2;
     font-weight:normal;
+    font-size:large; 
     font-family: 'Roboto Mono', monospace;
     position: relative;
     width: 40%;
